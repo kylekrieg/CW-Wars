@@ -3,9 +3,9 @@ Goal: Head to head CW decoding competition with an interactive spectator dashboa
 
 The software will have three components.  All of this is web based.  
 
-Competitor software : This is the screen each competitor will see.  Users will enter in their callsign and after clicking the start button, the timer starts.
-Internal Spectator Dashboard : This screen will be streamed in the background as a "status board" with touney brackets, past scores and also current scores/status of the current war.
-External Spectator Dashboard : This will be a website all the viewers can view to interact with the current war.  
+- Competitor software : This is the screen each competitor will see.  Users will enter in their callsign and after clicking the start button, the timer starts.
+- Internal Spectator Dashboard : This screen will be streamed in the background as a "status board" with touney brackets, past scores and also current scores/status of the current war.
+- External Spectator Dashboard : This will be a website all the viewers can view to interact with the current war.  
 
 ## Rules of the Game
 - Two CW operators go head to head trying to decode as many callsigns in three 90 second rounds.
